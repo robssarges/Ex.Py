@@ -163,7 +163,7 @@ titulo = tk.Label(
 )
 titulo.pack(pady=18)
 
-# Visor
+
 painel = tk.Frame(
     janela,
     bg=VISOR,
